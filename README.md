@@ -1,8 +1,8 @@
 - 👋 Hi, I am Arslan
-- 👀 I am interested in position of IOS development intern
-- 🌱 I’m currently learning UIKit and SwiftUI
-- 💞️ I’m looking to find new intern job as IOS developer
-- 📫 
+- 👀 I am interested in position of React/Vue Middle developer.
+- 🌱 I’m learning new technologies to reduce the work time in development.
+- 💞️ I'm free for any startup, just call me. I would like to learn new things.
+- 📫 Call me anytime: jacklol5760@gmail.com
 
 <!---
 21B030720/21B030720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
